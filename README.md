@@ -8,6 +8,9 @@ The goal of this project is to recreate the flag of Laos using CSS, focusing on 
 2. Combining CSS Selectors – Efficiently targeting elements.
 3. CSS Positioning – Proper placement of elements to mimic the flag design.
 
+![image](https://github.com/user-attachments/assets/24b6c531-34af-45b9-90e4-c5f68800f91e)
+
+
 Key Features
 
 1. Demonstrates CSS specificity and inheritance for applying styles effectively.
